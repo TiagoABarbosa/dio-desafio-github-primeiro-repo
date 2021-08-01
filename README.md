@@ -1,4 +1,4 @@
-# Desafio de Projeto Git/GitHub da DIO :dart:
+# Bootcamp DIO - everis New Talents Java :dart:
 Repositório criado para o desafio de projeto.
 
 ## Links Úteis
