@@ -1,5 +1,5 @@
 Sobre o Git:
-Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software.
+Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software
 
 
 Link para download do Git: https://git-scm.com/downloads
