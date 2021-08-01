@@ -1,4 +1,4 @@
-# Desafio de Projeto sobre Git/Hub da DIO :dart:
+# Desafio de Projeto sobre Git/GitHub da DIO :dart:
 Repositório criado para o desafio de projeto.
 
 ## Links Úteis
