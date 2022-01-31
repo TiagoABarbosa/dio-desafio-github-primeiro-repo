@@ -15,10 +15,10 @@ Projeto: Desenvolver testes automatizados para o ERP SankhyaOm
 ### Desenvolvimento Web :hotsprings:<p>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Junits 5 Badge](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)]
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)]
+![Junits 5 Badge](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 
 ## Link Teste :arrows_counterclockwise:<p>
-[Google Chrome Badge](http://sdeteste.nuvemdatacom.com.br:9515/mge/)<p>
+[![Google Chrome Badge]https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white] (http://sdeteste.nuvemdatacom.com.br:9515/mge/)<p>
 
 <img src="https://github.com/TiagoABarbosa/Projeto-Wizard/blob/main/frontend/src/assets/img/logoSankhya.svg" width="300">
