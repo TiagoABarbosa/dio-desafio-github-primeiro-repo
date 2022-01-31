@@ -19,6 +19,6 @@ Projeto: Desenvolver testes automatizados para o ERP SankhyaOm
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 
 ## Link Teste :arrows_counterclockwise:<p>
-[![Google Chrome Badge](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)] (http://sdeteste.nuvemdatacom.com.br:9515/mge/)<p>
+[![Google Chrome Badge](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](http://sdeteste.nuvemdatacom.com.br:9515/mge/)<p>
 
 <img src="https://github.com/TiagoABarbosa/Projeto-Wizard/blob/main/frontend/src/assets/img/logoSankhya.svg" width="300">
