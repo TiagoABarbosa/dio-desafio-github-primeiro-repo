@@ -12,7 +12,7 @@ Projeto: Desenvolver testes automatizados para o ERP SankhyaOm
 
 ## Tecnologias:
 
-### Desenvolvimento Web :hotsprings:<p>
+### Desenvolvimento Test :hotsprings:<p>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Junits 5 Badge](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
